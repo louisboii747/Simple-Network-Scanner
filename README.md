@@ -44,13 +44,6 @@ You’ll see output like:
 - Add GUI version with Tkinter
 - Allow custom subnet input
 
-## 📚 Learn More
-
-This tool is a great stepping stone toward learning:
-- Ethical hacking 🧑‍💻  
-- Networking fundamentals 🌐  
-- Python scripting 💻  
-- System automation ⚡
 
 ---
 
