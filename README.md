@@ -9,7 +9,7 @@ Perfect for beginners learning networking, ethical hacking, or how to use Python
 - 🔄 Multithreaded scanning for fast performance  
 - 🌐 Detects your local IP and scans the `/24` subnet  
 - 🖥️ Hostname resolution for each live device  
-- 🧠 Works on both **Windows** and **Linux**
+- 🧠 Works on both **Windows** and **Linux (Debian and RHEL systems)**
 
 ## 🚀 How to Run
 
